@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed:
      npm start
      ```
      or
-    ```bash
+     ```bash
      node server.js
      ```    
 
