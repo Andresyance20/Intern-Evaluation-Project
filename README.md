@@ -60,4 +60,5 @@ Before running the application, ensure you have the following installed:
 - If using a PC with Google Chrome, ensure JavaScript is enabled and security settings do not block the application.
 
 ## Troubleshooting
-- If the frontend does not load, check that the backend server is running first.
+- If the frontend does not load team cards, check that the backend server is running first.
+- npm install all dependencies again 
