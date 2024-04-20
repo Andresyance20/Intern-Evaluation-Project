@@ -1,0 +1,40 @@
+.team-card {
+    background-color:rgb(255, 255, 255);
+    width: 200px; 
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    margin: 16px; 
+
+    border-radius: 4px; 
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; 
+
+
+  }
+  .team-card img {
+    max-width: 200px; 
+    max-height: 200px; 
+    width: auto; 
+    height: auto; 
+    object-fit: contain; 
+    margin-top: 16px; 
+  }
+  
+
+  .team-card h3, .team-card p {
+    margin: 5px 0;  
+    width: 100%;  
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.team-card p {
+  font-size: 0.9rem;  
+}
+  
+.team-card:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
