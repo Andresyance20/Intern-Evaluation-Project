@@ -24,7 +24,7 @@ Before running the application, ensure you have the following installed:
    - Open a terminal or command prompt.
    - Clone the repository to your local machine using:
      ```bash
-     git clone https://github.com/your-repo-url.git
+     git clone https://github.com/Andresyance20/Intern-Evaluation-Project.git
      ```
 
 2. **Install Dependencies**
